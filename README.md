@@ -49,8 +49,6 @@ I learnt about various things like transforms, transitions, flexbox pseudo-eleme
 
 In future projects, I will try to use many other features of CSS along with Javascript for the frontend part and will use CSS frameworks for the frontend part.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ### Useful resources
 
 - [Code with harry Web Development tutorial](https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) - This playlist helped me for building strong frontend base concepts. The tutorials are just to the point and explain each and every concept practically wih code.
