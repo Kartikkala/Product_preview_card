@@ -32,10 +32,6 @@ Users should be able to:
 ![](./images/webpage_ss.png)
 
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-
 ### My process
 
 ### Built with
@@ -44,6 +40,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+- Visual Studio Code
 
 ### What I learned
 
