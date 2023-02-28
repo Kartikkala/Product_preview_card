@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/webpage_ss.png)
+![https://github.com/Kartikkala/Product_preview_card/blob/master/images/webpage_ss.png]
 
 
 ### My process
