@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![WebPageScreenshot]https://github.com/Kartikkala/Product_preview_card/blob/master/images/webpage_ss.png
+![WebPageScreenshot][https://github.com/Kartikkala/Product_preview_card/blob/master/images/webpage_ss.png](https://github.com/Kartikkala/Product_preview_card/blob/e41ff8cc88ef10f4ae123177910ed664e632a133/images/webpage_ss.jpg)
 
 
 ### My process
